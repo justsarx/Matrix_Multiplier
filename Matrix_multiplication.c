@@ -72,9 +72,6 @@ int main(){
 		printf("\n\n");
 	}
 	
-	//The mark of confirmation☠️😎
-	
-	printf("Working Properly!!");
 	
 	
 	return 0;
